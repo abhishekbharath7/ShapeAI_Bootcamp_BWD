@@ -9,6 +9,13 @@ function App() {
       <Header />
       <Footer />
       <Note />
+      <Note />
+      <Note />
+      <Note />
+      <Note />
+      <Note />
+      <Note />
+      <Note />
     </div>
   );
 }
